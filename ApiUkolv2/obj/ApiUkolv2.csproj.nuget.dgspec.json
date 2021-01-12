@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projekty\\ApiUkolv2\\ApiUkolv2\\ApiUkolv2.csproj": {}
+    "C:\\Users\\stepa\\Source\\Repos\\APIwallpaperApp\\ApiUkolv2\\ApiUkolv2.csproj": {}
   },
   "projects": {
-    "D:\\Projekty\\ApiUkolv2\\ApiUkolv2\\ApiUkolv2.csproj": {
+    "C:\\Users\\stepa\\Source\\Repos\\APIwallpaperApp\\ApiUkolv2\\ApiUkolv2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projekty\\ApiUkolv2\\ApiUkolv2\\ApiUkolv2.csproj",
+        "projectUniqueName": "C:\\Users\\stepa\\Source\\Repos\\APIwallpaperApp\\ApiUkolv2\\ApiUkolv2.csproj",
         "projectName": "ApiUkolv2",
-        "projectPath": "D:\\Projekty\\ApiUkolv2\\ApiUkolv2\\ApiUkolv2.csproj",
+        "projectPath": "C:\\Users\\stepa\\Source\\Repos\\APIwallpaperApp\\ApiUkolv2\\ApiUkolv2.csproj",
         "packagesPath": "C:\\Users\\stepa\\.nuget\\packages\\",
-        "outputPath": "D:\\Projekty\\ApiUkolv2\\ApiUkolv2\\obj\\",
+        "outputPath": "C:\\Users\\stepa\\Source\\Repos\\APIwallpaperApp\\ApiUkolv2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

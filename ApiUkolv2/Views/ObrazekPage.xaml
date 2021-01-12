@@ -2,12 +2,11 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ApiUkolv2.Views.ObrazekPage">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="{Binding Title}" FontSize="Title" VerticalTextAlignment="Center"/>
-            <Image Source="{Binding HdUrl}" ></Image>
-            <Label Text="{Binding Explanation }" FontSize="Caption" ></Label>
-            <Label Text="{Binding Author}"  VerticalTextAlignment="End"></Label>
-        </StackLayout>
-    </ContentPage.Content>
+
+    <StackLayout>
+        <Label Text="{Binding Title}" FontSize="Title" VerticalTextAlignment="Center" Margin="10"/>
+        <Image Source="{Binding HdUrl}" ></Image>
+        <Label Text="{Binding Explanation }" Margin="10" FontSize="Caption"  ></Label>
+        <Label Text="{Binding Author}"  VerticalTextAlignment="End" Margin="10"></Label>
+    </StackLayout>
 </ContentPage>

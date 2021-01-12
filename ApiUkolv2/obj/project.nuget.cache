@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CpQSmr/Z0rVEIOtEL4mLqKj+CM3YFPJPFDqFwEqybVju4bLvU05+IRKIkvcVX+UgKCKw/NWSOfuqPH6keyQy7w==",
+  "dgSpecHash": "IU5ONaAnNF+hiNVTrGKL8ysht7F7knZcq98cA28ZPZBlsZCf/agwX1Lq+6tS0wOYXT8Ij2Z0Ap4CEZfF56Sm3w==",
   "success": true,
-  "projectFilePath": "D:\\Projekty\\ApiUkolv2\\ApiUkolv2\\ApiUkolv2.csproj",
+  "projectFilePath": "C:\\Users\\stepa\\Source\\Repos\\APIwallpaperApp\\ApiUkolv2\\ApiUkolv2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stepa\\.nuget\\packages\\microsoft.appcenter\\4.1.0\\microsoft.appcenter.4.1.0.nupkg.sha512",
     "C:\\Users\\stepa\\.nuget\\packages\\microsoft.appcenter.analytics\\4.1.0\\microsoft.appcenter.analytics.4.1.0.nupkg.sha512",
