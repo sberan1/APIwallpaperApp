@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ApiUkolv2.Views.ObrazekPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="{Binding Title}" FontSize="Title" VerticalTextAlignment="Center"/>
+            <Image Source="{Binding HdUrl}" ></Image>
+            <Label Text="{Binding Explanation }" FontSize="Caption" ></Label>
+            <Label Text="{Binding Author}"  VerticalTextAlignment="End"></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
